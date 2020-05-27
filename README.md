@@ -1,0 +1,2 @@
+# StrategySynth
+TokenSet for Synthetix
